@@ -5,7 +5,7 @@
 ### A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 - 🎓 I'm a systems engineer student, currently in my 8th trimester.
-- ⚡️ Frontend & Backend developer in progress
+- ⚡️ Frontend & Backend developer in progress.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently putting into practice my skills of developer and learning news technologies.
 
 ---
