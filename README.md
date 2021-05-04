@@ -26,4 +26,4 @@
 
 ### 📬 Find me at
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=:https://twitter.com/yoimeldev)](https://twitter.com/yoimeldev) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoimel-emir-rojas-rios-52393b124//)](https://www.linkedin.com/in/yoimel-emir-rojas-rios-52393b124/) [![Gmail Badge](https://img.shields.io/badge/-yoimeldev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=yoimeldev@gmail.com)](yoimeldev@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=:https://twitter.com/yoimeldev)](https://twitter.com/yoimeldev) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoimeldev/)](https://www.linkedin.com/in/yoimeldev/) [![Gmail Badge](https://img.shields.io/badge/-yoimeldev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=yoimeldev@gmail.com)](yoimeldev@gmail.com)
