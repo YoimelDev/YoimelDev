@@ -18,9 +18,9 @@
 
 ### 🚀 Quick Stats
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YoimelDev&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YoimelDev&layout=compact&theme=merko)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YoimelDev&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=YoimelDev&show_icons=true&theme=merko)
 
 ---
 
