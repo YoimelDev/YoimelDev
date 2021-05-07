@@ -18,9 +18,9 @@
 
 ### 🚀 Quick Stats
 
-![Stats](https://github-readme-stats-yoimeldev.vercel.app//api/top-langs/?username=YoimelDev&layout=compact&theme=tokyonight)
+<p>&nbsp;<img align="center" src="https://github-readme-stats-yoimeldev.vercel.app//api/top-langs/?username=YoimelDev&layout=compact&theme=tokyonight" alt="YoimelDev" /></p>
 
-![Stats](https://github-readme-stats-git-master-yoimeldev.vercel.app/api?username=YoimelDev&show_icons=true&theme=tokyonight)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YoimelDev&show_icons=true&theme=tokyonight" alt="YoimelDev" /></p>
 
 ---
 
