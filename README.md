@@ -18,13 +18,13 @@
 
 ### 🚀 Quick Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YoimelDev&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YoimelDev&theme=synthwave)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-stats-yoimeldev.vercel.app//api/top-langs/?username=YoimelDev&layout=compact&theme=radical" alt="YoimelDev" /></p>
+<p><img align="center" src="https://github-readme-stats-yoimeldev.vercel.app//api/top-langs/?username=YoimelDev&layout=compact&theme=synthwave" alt="YoimelDev" /></p>
 
 Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=YoimelDev&show_icons=true&theme=radical" alt="YoimelDev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=YoimelDev&show_icons=true&theme=synthwave" alt="YoimelDev" /></p>
 
 ---
 
